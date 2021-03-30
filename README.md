@@ -41,8 +41,8 @@ Desenvolvedor em processo de formação, cursando Ciência da Computação 🎓 
 <br/>
 
   ### ⚙️ Ferramentas que utilizo
-  	    <li><b>OS:</b> Windows 10</li>
-  	    <li><b>Browser: </b> Chrome Web Browser</li>
-	    <li><b>Editor de Código:</b> VSCode </li>	   
+  - <b>OS</b>: Windows
+  - <b>Browser: </b> Chrome Web Browser
+  - <b>Editor de Código:</b> VSCode 	   
 
 <h3 align="center"> Um prazer ter você por aqui!  :-) </h3>
