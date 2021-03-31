@@ -1,8 +1,8 @@
 # Hey 👋, I'm Lucas Godoi
 
 ##### Change the language here ⬇
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Lucas-Godoi/teste/blob/master/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Lucas-Godoi/teste/blob/master/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Lucas-Godoi/Lucas-Godoi/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Lucas-Godoi/Lucas-Godoi/blob/main/README.pt-br.md)
 
 
 ## Reach me! :)
