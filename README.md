@@ -30,19 +30,17 @@ Desenvolvedor em processo de formação, cursando Ciência da Computação 🎓 
 - Sempre disposto a aprender e enfrentar novos desafios 🚀
 - Trabalho em equipe ⚡
 
-<br/>
-
-  ### ⚙️ Ambiente de Desenvolvimento
-  - <b>OS</b>: Windows
-  - <b>Browser: </b> Chrome Web Browser
-  - <b>Editor de Código:</b> VSCode 	   
+### ⚙️ Ambiente de Desenvolvimento
+ - <b>OS</b>: Windows
+ - <b>Browser: </b> Chrome Web Browser
+ - <b>Editor de Código:</b> VSCode 	   
 
 ## Estatísticas:
 
   <b>⚡ Github Stats</b>
 <p align="center">
-<img height="158em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Godoi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Godoi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Godoi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Godoi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <h3 align="center"> Um prazer ter você por aqui!  :-) </h3>
