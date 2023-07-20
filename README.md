@@ -11,11 +11,6 @@
 ## About me
 Computer Science student 🎓 from PUC Minas University 🏛. I'm still figuring out and trying different and new technologies 🛠 , always looking to solve real life problems 💡.
 
-
-<img align="right" height="200" src="https://github.com/Lucas-Godoi/Lucas-Godoi/blob/main/computer_cat.gif"/>
-
-
-
 ## Personal Stuff
 - 🛠 &nbsp; I'm actually studying MySql, also trying to get deeply into web development.
 - 💻 &nbsp; I really like exploring new technologies and building cool and interesting stuffs.
@@ -38,13 +33,5 @@ Computer Science student 🎓 from PUC Minas University 🏛. I'm still figuring
  - <b>OS</b>: Windows
  - <b>Browser: </b> Chrome Web Browser
  - <b>Code Editor:</b> VSCode 	   
-
-## Stats
-
-  <b>⚡ Github Stats</b>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Godoi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Godoi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 <h3 align="center"> It is a pleasure to have you here!  :-) </h3>
