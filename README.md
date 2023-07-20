@@ -12,7 +12,6 @@
 Computer Science student 🎓 from PUC Minas University 🏛. I'm still figuring out and trying different and new technologies 🛠 , always looking to solve real life problems 💡.
 
 ## Personal Stuff
-- 🛠 &nbsp; I'm actually studying MySql, also trying to get deeply into web development.
 - 💻 &nbsp; I really like exploring new technologies and building cool and interesting stuffs.
 - 📰 &nbsp; Always trying to keep me up to date about tech news around the world.
 
