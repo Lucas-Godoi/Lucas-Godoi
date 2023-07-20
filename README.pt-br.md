@@ -12,12 +12,8 @@
 Desenvolvedor em processo de formação, cursando Ciência da Computação 🎓 pela PUC Minas. Ainda estou descobrindo as diferentes tecnologias 🛠  e aonde elas podem levar 🛣, sempre em busca de resolver problemas da vida real 💡. 
 
 
-<img align="right" height="200" src="https://github.com/Lucas-Godoi/Lucas-Godoi/blob/main/computer_cat.gif"/>
-
-
 
 ## Pessoal
-- 🛠 &nbsp; Atualmente estudando MySql, e também buscando me aprofundar no desenvolvimento web.
 - 💻 &nbsp; Gosto muito de explorar novas tecnologias e construir coisas interessantes.
 - 📰 &nbsp; Gosto de me manter atualizado com as notícias tech pelo mundo.
 
@@ -38,13 +34,5 @@ Desenvolvedor em processo de formação, cursando Ciência da Computação 🎓 
  - <b>OS</b>: Windows
  - <b>Browser: </b> Chrome Web Browser
  - <b>Editor de Código:</b> VSCode 	   
-
-## Estatísticas:
-
-  <b>⚡ Github Stats</b>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Godoi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Godoi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 <h3 align="center"> Um prazer ter você por aqui!  :-) </h3>
